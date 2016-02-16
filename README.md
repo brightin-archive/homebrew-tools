@@ -12,4 +12,5 @@ A [Homebrew tap] for various Brightin projects.
 
 You can simply install a package via:
 
-    brew install brightin/tools/fukusu
+    brew tap brightin/tools
+    brew install fukusu
