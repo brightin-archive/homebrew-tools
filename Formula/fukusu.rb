@@ -7,7 +7,7 @@ class Fukusu < Formula
   bottle :unneeded
 
   depends_on :java => "1.7+"
-  depends_on "heroku-toolbelt"
+  depends_on "heroku"
 
   def install
     bin.install "fukusu"
